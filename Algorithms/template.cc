@@ -16,8 +16,8 @@
 
 using namespace std;
 
-#define REP(i, a, n) for (int i = a; i < (int) n; i++)
-#define FOR_ITER(c, it) for (typeof(c.begin()) it = c.begin(); it != c.end(); it++)
+#define REP(n) for (int i = 0; i < (int) n; i++)
+#define REPE(i, a, n) for (int i = a; i < (int) n; i++)
 #define ALL(c) (c).begin(), (c).end()
 
 const int MOD = 1000000007;
