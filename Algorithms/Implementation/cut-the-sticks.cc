@@ -34,7 +34,7 @@ cutTheSticks(int arr[1000]) {
       sticks.push_back(arr[i]);
     }
   }
-  for (int stick : sticks) {
+  for (int stick: sticks) {
     cout << total << endl;
     total -= stick;
   }
