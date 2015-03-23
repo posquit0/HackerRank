@@ -1,3 +1,5 @@
+## Jim and the Orders
+
 **Problem Statement**
 
 In Jim’s Burger, n hungry burger fans are ordering burgers. The i<sup>th</sup> order is placed by the i<sup>th</sup> fan at t_i time and it takes d_i time to procees. What is the order in which the fans will get their burgers?
